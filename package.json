@@ -1,0 +1,31 @@
+{
+  "name": "exeljs",
+  "version": "1.0.0",
+  "description": "JavaScript Exel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemaldemirel/jspractice.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exel"
+  ],
+  "author": "Kemal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kemaldemirel/jspractice/issues"
+  },
+  "homepage": "https://github.com/kemaldemirel/jspractice#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
